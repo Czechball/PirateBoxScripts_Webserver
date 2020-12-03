@@ -31,7 +31,7 @@ fi
 if [[ $1 ]]; then
 	echo "Installing..."
 else
-	echo "Useage: /bin/bash install.sh <default|board>"
+	echo "Usage: /bin/bash install.sh <default|board>"
 	exit 0
 fi
 
